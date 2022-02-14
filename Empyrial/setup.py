@@ -12,8 +12,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/kaijun40640/Empyrial/',
-    author="Santosh Passoubady",
-    author_email="santoshpassoubady@gmail.com",
+    author="Kai Jun",
+    author_email="kaijun40640@gmail.com",
     license='MIT',
     install_requires=[
         'numpy',
