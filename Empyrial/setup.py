@@ -11,7 +11,7 @@ setup(
     package_dir={'': 'src'},
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/ssantoshp/Empyrial',
+    url='https://github.com/kaijun40640/Empyrial/',
     author="Santosh Passoubady",
     author_email="santoshpassoubady@gmail.com",
     license='MIT',
